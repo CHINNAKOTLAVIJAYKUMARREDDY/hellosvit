@@ -1,0 +1,43 @@
+{
+  "basics":{
+    "name":"hi hello"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+},
+"education":[
+  {
+
+    "degree":"b.tech",
+    "institute":"svit,anantapur",
+    "data":["2015-2019","73%"]
+  },
+  {
+      "degree":"intermediate",
+      "institute":"satya sai",
+      "data":["2013-2015","70%"]
+    },
+  {"degree":"ssc",
+  "institute":"zphschool",
+  "data":["2012-2013","73%"]
+}
+],
+"skills":[
+  {"sname":"languages",
+    "sdata":["c","c++","java"]
+  },
+  {
+"sname":"database",
+  "sdata":["oracle","my sql","my sqlite","pdf"]
+},
+{
+"sname":"web technologies",
+  "sdata":["html","xml","php","javaScript"]
+},
+{
+"sname":"operating system",
+  "sdata":["windows","linux","unix"]
+}
+]
+}
